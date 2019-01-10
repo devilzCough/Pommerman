@@ -4,9 +4,9 @@ Team competition : 2018. 12. 8 NeurIPS 컨퍼런스에서 진행됨
 
 ### 2nd Place in learning agents _ Skynet (5th place in global rank)
 
-blog : https://www.borealisai.com/en/blog/pommerman-team-competition-or-how-we-learned-stop-worrying-and-love-battle/
+original blog : https://www.borealisai.com/en/blog/pommerman-team-competition-or-how-we-learned-stop-worrying-and-love-battle/
 
-
+[Blog 번역글]
 
 ### 1. The rules of engagement
 
@@ -33,3 +33,4 @@ blog : https://www.borealisai.com/en/blog/pommerman-team-competition-or-how-we-l
  : Pommerman team competition은 강화학습에 있어 도전적인 문제이다. 그에 대한 이유로는 아래와 같다.
 
 - **Sparse, delayed reward** : 에이전트는 게임이 종료될 때까지 어떤 보상도 받지 못한다. 보상은 +1 또는 -1인데 양쪽 팀의 에이전트가 같은 타임스텝에서 모두 죽게 되면 각각 -1을 받고 
+
